@@ -1,0 +1,23 @@
+{
+  "name": "LearnRequirejs",
+  "main": "index.html",
+  "authors": [
+    "z996345 <z996345@hotmail.com>"
+  ],
+  "description": "Test Require.js",
+  "moduleType": [],
+  "keywords": [
+    "RequireJS",
+    "Test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

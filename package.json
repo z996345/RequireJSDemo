@@ -1,0 +1,15 @@
+{
+  "name": "requirejs-demo",
+  "version": "1.0.0",
+  "description": "RequireJS Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RequireJS",
+    "Test"
+  ],
+  "author": "Ren Huang",
+  "license": "MIT"
+}
