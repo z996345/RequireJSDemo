@@ -6,7 +6,7 @@ webApp.use(express.static(path.join(__dirname, '..')));
 
 var yargs = require('yargs').options({
 	  'port': {
-			'default': 3080,
+			'default': 3050,
 			'description' : 'Port to listen on.'
 	  },
 	  'help': {
